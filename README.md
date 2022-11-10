@@ -1,4 +1,4 @@
-# Class26AngularAnimations
+# Class-26_Angular-Animations
 
 Source: https://ankitsharmablogs.com/understanding-angular-animation/
 
